@@ -14,4 +14,4 @@
 
 🙋‍♀️ We are a group of developers interested in WebAR, we think that open source make the difference. 
 
-Go to our page for a quick introduction [webarkit.org](www.webarkit.org)
+Go to our page for a quick introduction [webarkit.org](https://www.webarkit.org)
